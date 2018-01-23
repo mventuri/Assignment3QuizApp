@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Are You an U.S. Expert?</string>
+
+    <!--Question 1: Question and answers-->
+
+    <string name="q1">1. Select from the list the first U.S. President </string>
+    <string name="q1_answer1">Bruce Wayne</string>
+    <string name="q1_answer2">G.W. Bush</string>
+    <string name="q1_answer3">George Washington</string>
+
+    <!--Question 2: Question and answers-->
+
+    <string name="question2">2. Tell me when the declaration of indipendence was signed. Just the year (in numbers!)</string>
+
+    <!--Question 3: Question and answers-->
+
+    <string name="q3">3. Two cities from this list are in California. Check them all!</string>
+    <string name="q3_answer1">Los Angeles</string>
+    <string name="q3_answer2">San Francisco</string>
+    <string name="q3_answer3">New York</string>
+
+    <!--Question 4: Question and answers-->
+
+    <string name="q4">4. Who is the U.S. President in office? (Just the last name!)</string>
+
+    <!--Question 5: Question and answers-->
+
+    <string name="q5">5. Where is set the famous TV series \'Breaking Bad\'?</string>
+    <string name="q5_answer1">Springfield</string>
+    <string name="q5_answer2">New York</string>
+    <string name="q5_answer3">Alberq.. Alb.. Albuquerque!</string>
+
+    <!--Question 6: Question and answers-->
+
+    <string name="q6">6. Who is Clark Kent?</string>
+    <string name="q6_answer1">Journalist</string>
+    <string name="q6_answer2">Super Hero</string>
+    <string name="q6_answer3">...Not Bruce Wayne</string>
+
+    <!--Button-->
+
+    <string name="check_answers">Check answers</string>
+
+
+</resources>
